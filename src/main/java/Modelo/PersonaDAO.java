@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 import Repository.Conexion;
 
-public class PersonaDAO {
+public class PersonaDAO{
 	//Conexion cn=new Conexion();
 	//Connection con;
 	PreparedStatement ps;
