@@ -8,7 +8,7 @@ public class Persona {
 	String contra;
 	String coment;
 	
-	public Persona() {
+	public Persona(){
 		
 	}
 	public Persona(String idUsuario,String nom,String tel,String contra,String coment) {
