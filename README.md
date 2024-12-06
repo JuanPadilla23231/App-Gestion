@@ -49,8 +49,11 @@ o	Al iniciar sesión, el vendedor podrá:
 6.	Transparencia para el cliente:
 o	Los clientes podrán verificar que sus pagos han sido correctamente registrados.
 o	Se les notificará si están al día o en atraso, con una advertencia de cargos adicionales por días vencidos.
-Estas son las herramientas que se utilizan para poder trbajar con la app:
+
+Estas son las herramientas que se utilizan para poder trabajar con la app:
 *Java Versio 17
 *Apache Tomcat Version 9.0.96
 *Spring Tools 4
 *Oracle Corporation. MySQL Version 8.0.40
+<br>
+<a href="https://github.com/JuanPadilla23231/App-Gestion/wiki/Requerimientos:">Requerimientos</a>
