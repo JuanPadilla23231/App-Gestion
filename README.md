@@ -28,9 +28,9 @@ o	El vendedor registrará cada pedido, incluyendo:
 o	Aceptación de Pedidos Solicitados por el Cliente:
 	Si el cliente levanta un pedido desde su perfil, el vendedor deberá revisar y aceptar el pedido antes de procesarlo.
 	El pedido incluirá:
-               * ID del producto solicitado.
+        * ID del producto solicitado.
         * Nombre del cliente solicitante.
-                                         * Fecha de la solicitud.
+        * Fecha de la solicitud.
 	Una vez aceptado ,por ultimo el vendedor carga el precio de vendedor y precio a cliente y el pedido se registrará automáticamente como aprobado y pasará al historial de ventas del cliente.
 4.	Reportes financieros:
 o	El vendedor podrá generar reportes detallados que muestren:
@@ -49,4 +49,8 @@ o	Al iniciar sesión, el vendedor podrá:
 6.	Transparencia para el cliente:
 o	Los clientes podrán verificar que sus pagos han sido correctamente registrados.
 o	Se les notificará si están al día o en atraso, con una advertencia de cargos adicionales por días vencidos.
-
+Estas son las herramientas que se utilizan para poder trbajar con la app:
+*Java Versio 17
+*Apache Tomcat Version 9.0.96
+*Spring Tools 4
+*Oracle Corporation. MySQL Version 8.0.40
