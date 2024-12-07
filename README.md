@@ -61,4 +61,6 @@ Estas son las herramientas que se utilizan para poder trabajar con la app:
 <a href="https://github.com/JuanPadilla23231/App-Gestion/wiki/Instalaci%C3%B3n">Instalacion</a>
 <br>
 <a href="https://github.com/JuanPadilla23231/App-Gestion/wiki/Configuraci%C3%B3n">Configuracion</a>
+<br>
+<a href="https://github.com/JuanPadilla23231/App-Gestion/wiki/Uso">Configuracion</a>
 
