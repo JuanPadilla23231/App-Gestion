@@ -56,8 +56,6 @@ Estas son las herramientas que se utilizan para poder trabajar con la app:
 *Spring Tools 4
 *Oracle Corporation. MySQL Version 8.0.40
 
-![image](https://github.com/user-attachments/assets/54025966-a290-4bec-b3be-1d261856ccba)
-
 <br>
 <a href="https://github.com/JuanPadilla23231/App-Gestion/wiki/Requerimientos:">Requerimientos</a>
 <br>
